@@ -1,0 +1,442 @@
+AluminumFrame_40x80x800:
+    Name: Aluminum Frame (40x80x800)mm
+    Description: >
+        40x80L I-Type Nut 8 aluminum profile, 800mm length.
+    Specs:
+        Dimensions: 40x80x800 mm
+        Type: I-Type, Nut 8
+        Material: Aluminum
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 17.20 EUR
+            Link: https://www.dold-mechatronik.de/Aluminiumprofil-40x80L-I-Typ-Nut-8-Standardlaengen-215-EUR-m
+
+AluminumFrame_40x80x880:
+    Name: Aluminum Frame (40x80x880)mm
+    Description: >
+        40x80L I-Type Nut 8 aluminum profile, 880mm length.
+    Specs:
+        Dimensions: 40x80x880 mm
+        Type: I-Type, Nut 8
+        Material: Aluminum
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 19.66 EUR
+            Link: https://www.dold-mechatronik.de/Aluminiumprofil-40x80L-I-Typ-Nut-8-ZUSCHNITT-bis-1200-mm-2200-EUR-m-030-EUR-pro-Schnitt
+
+AluminumFrame_40x40x800:
+    Name: Aluminum Frame (40x40x800)mm
+    Description: >
+        40x40L I-Type Nut 8 aluminum profile, 800mm length.
+    Specs:
+        Dimensions: 40x40x800 mm
+        Type: I-Type, Nut 8
+        Material: Aluminum
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 8.20 EUR
+            Link: https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-Standardlaengen-1025-EUR-m
+
+Angle_40x80:
+    Name: Angle Bracket 40x80 I-Type Nut 8
+    Description: >
+        40x80 I-Type Nut 8 angle bracket, includes screws.
+    Specs:
+        Dimensions: 40x80 mm
+        Type: I-Type, Nut 8
+        Material: Steel
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 4.66 EUR
+            Link: https://www.dold-mechatronik.de/Winkel-40x80-I-Typ-Nut-8-inkl-Befestigungssatz
+
+Angle_40:
+    Name: Angle Bracket 40 I-Type Nut 8
+    Description: >
+        40 I-Type Nut 8 angle bracket, includes screws.
+    Specs:
+        Dimensions: 40x40 mm
+        Type: I-Type, Nut 8
+        Material: Steel
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 2.52 EUR
+            Link: https://www.dold-mechatronik.de/Stahlwinkel-40-I-Typ-Nut-8-inkl-Befestigungssatz
+
+SlotNut_M8:
+    Name: Slot Nut I-Type Nut 8, M8
+    Description: >
+        Slot nut with guide, suitable for I-Type Nut 8 profiles, M8 thread.
+    Specs:
+        Thread: M8
+        Type: I-Type, Nut 8
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.53 EUR
+            Link: https://www.dold-mechatronik.de/Nutenstein-mit-Steg-I-Typ-Nut-8-Gewindedurchmesser-waehlbar
+
+SlotNut_M5:
+    Name: Slot Nut I-Type Nut 8, M5
+    Description: >
+        Slot nut with guide, suitable for I-Type Nut 8 profiles, M5 thread.
+    Specs:
+        Thread: M5
+        Type: I-Type, Nut 8
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.53 EUR
+            Link: https://www.dold-mechatronik.de/Nutenstein-mit-Steg-I-Typ-Nut-8-Gewindedurchmesser-waehlbar
+
+M8x18Screw:
+    Name: M8x18 Socket Head Cap Screw DIN912
+    Description: >
+        M8x18 socket head cap screws, DIN 912, grade 8.8, zinc-plated.
+    Specs:
+        Length: 18 mm
+        Thread: M8
+        Standard: DIN 912
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.35 EUR
+            Link: https://www.dold-mechatronik.de/DIN-912-Zylinderschraube-mit-Innensechskant-88-verzinkt
+
+M8x18CountersunkScrew:
+    Name: M8x18 Countersunk Screw DIN7991
+    Description: >
+        M8x18 countersunk screws, DIN 7991, grade 8.8, zinc-plated.
+    Specs:
+        Length: 18 mm
+        Thread: M8
+        Standard: DIN 7991
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.32 EUR
+            Link: https://www.dold-mechatronik.de/DIN-7991-Senkschraube-mit-Innensechskant-88-verzinkt
+
+M8x20CountersunkScrew:
+    Name: M8x20 Countersunk Screw DIN7991
+    Description: >
+        M8x20 countersunk screws, DIN 7991, grade 8.8, zinc-plated.
+    Specs:
+        Length: 20 mm
+        Thread: M8
+        Standard: DIN 7991
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.30 EUR
+            Link: https://www.dold-mechatronik.de/DIN-7991-Senkschraube-mit-Innensechskant-88-verzinkt
+
+M6x20Screw:
+    Name: M6x20 Socket Head Cap Screw DIN912
+    Description: >
+        M6x20 socket head cap screws, DIN 912, grade 8.8, zinc-plated.
+    Specs:
+        Length: 20 mm
+        Thread: M6
+        Standard: DIN 912
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.14 EUR
+            Link: https://www.dold-mechatronik.de/DIN-912-Zylinderschraube-mit-Innensechskant-88-verzinkt
+
+M6x20CountersunkScrew:
+    Name: M6x20 Countersunk Screw DIN7991
+    Description: >
+        M6x20 countersunk screws, DIN 7991, grade 8.8, zinc-plated.
+    Specs:
+        Length: 20 mm
+        Thread: M6
+        Standard: DIN 7991
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.30 EUR
+            Link: https://www.dold-mechatronik.de/DIN-7991-Senkschraube-mit-Innensechskant-88-verzinkt-M6x20
+
+M6x30Screw:
+    Name: M6x30 Socket Head Cap Screw DIN912
+    Description: >
+        M6x30 socket head cap screws, DIN 912, grade 8.8, zinc-plated.
+    Specs:
+        Length: 30 mm
+        Thread: M6
+        Standard: DIN 912
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.18 EUR
+            Link: https://www.dold-mechatronik.de/DIN-912-Zylinderschraube-mit-Innensechskant-88-verzinkt
+
+HexagonNut_M6:
+    Name: Hexagon Nut DIN934 M6
+    Description: >
+        M6 hexagon nuts, DIN 934, grade 8, zinc-plated.
+    Specs:
+        Thread: M6
+        Standard: DIN 934
+        Material: Steel, grade 8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.16 EUR
+            Link: https://www.dold-mechatronik.de/DIN-934-Sechskantmutter-8-verzinkt-M6x1
+
+M5x20Screw:
+    Name: M5x20 Socket Head Cap Screw DIN912
+    Description: >
+        M5x20 socket head cap screws, DIN 912, grade 8.8, zinc-plated.
+    Specs:
+        Length: 20 mm
+        Thread: M5
+        Standard: DIN 912
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.13 EUR
+            Link: https://www.dold-mechatronik.de/DIN-912-Zylinderschraube-mit-Innensechskant-88-verzinkt
+
+M5x30Screw:
+    Name: M5x30 Socket Head Cap Screw DIN912
+    Description: >
+        M5x30 socket head cap screws, DIN 912, grade 8.8, zinc-plated.
+    Specs:
+        Length: 30 mm
+        Thread: M5
+        Standard: DIN 912
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.17 EUR
+            Link: https://www.dold-mechatronik.de/DIN-912-Zylinderschraube-mit-Innensechskant-88-verzinkt
+
+M5x20CountersunkScrew:
+    Name: M5x20 Countersunk Screw DIN7991
+    Description: >
+        M5x20 countersunk screws, DIN 7991, grade 8.8, zinc-plated.
+    Specs:
+        Length: 20 mm
+        Thread: M5
+        Standard: DIN 7991
+        Material: Steel, grade 8.8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.30 EUR
+            Link: https://www.dold-mechatronik.de/DIN-7991-Senkschraube-mit-Innensechskant-88-verzinkt-M6x20
+
+HexagonNut_M5:
+    Name: Hexagon Nut DIN934 M5
+    Description: >
+        M5 hexagon nuts, DIN 934, grade 8, zinc-plated.
+    Specs:
+        Thread: M5
+        Standard: DIN 934
+        Material: Steel, grade 8, zinc-plated
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 0.15 EUR
+            Link: https://www.dold-mechatronik.de/DIN-934-Sechskantmutter-8-verzinkt
+
+DistancePlate1mm_TBR20UU:
+    Name: Distance Plate 1mm for TBR20UU Linear Bearing
+    Description: >
+        1mm distance plate for TBR20UU linear bearings.
+    Specs:
+        Thickness: 1 mm
+        Compatible With: TBR20UU
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 1.50 EUR
+            Link: https://www.dold-mechatronik.de/Distanzblech-1mm-fuer-TBR20UU
+
+AluminumPlate_1:
+    Name: Aluminum Plate 1
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_2:
+    Name: Aluminum Plate 2
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_3:
+    Name: Aluminum Plate 3
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_4:
+    Name: Aluminum Plate 4
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_5:
+    Name: Aluminum Plate 5
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_6:
+    Name: Aluminum Plate 6
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlate_7:
+    Name: Aluminum Plate 7
+    Description: >
+        Custom-cut aluminum plate for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+AluminumPlates_8_9:
+    Name: Aluminum Plates 8 & 9
+    Description: >
+        Custom-cut aluminum plates for assembly, dimensions as per design specifications.
+    Specs:
+        Material: Aluminum
+        Dimensions: Custom
+    Suppliers:
+        Custom fabrication required
+
+LinearBearing_TBR20UU:
+    Name: Linear Bearing TBR20UU
+    Description: >
+        TBR20UU open linear bearing, adjustable play.
+    Specs:
+        Model: TBR20UU
+        Shaft Diameter: 20 mm
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 9.80 EUR
+            Link: https://www.dold-mechatronik.de/Linearlager-20mm-TBR20UU-offen-Spiel-einstellbar
+
+SupportedRail_TBS20:
+    Name: Supported Rail TBS20, 800mm
+    Description: >
+        TBS20 supported rail, length 800mm.
+    Specs:
+        Model: TBS20
+        Length: 800 mm
+        Diameter: 20 mm
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 33.00 EUR
+            Link: https://www.dold-mechatronik.de/Linearfuehrung-Supported-Rail-TBS20-800mm-lang
+
+MotorCoupler_D25L30_8_8:
+    Name: Motor Coupler D25L30 8/8 mm
+    Description: >
+        Flexible shaft coupling D25L30, bore diameter 8 mm on both sides.
+    Specs:
+        Outer Diameter: 25 mm
+        Length: 30 mm
+        Bore Diameter: 8 mm x 8 mm
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 10.50 EUR
+            Link: https://www.dold-mechatronik.de/Wellenkupplung-XB-flexibel-D25L30-800-800mm
+
+EasyMechatronics:
+    Name: Easy-Mechatronics System
+    Description: >
+        Linear axis configuration including fixed bearing, motor holder, floating bearing, linear bearings, precision shafts, shaft holders, ballscrew with spindle nut block, and shaft coupling.
+    Specs:
+        Model: Easy-Mechatronics System 1620B
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 271.30 EUR
+            Link: https://www.dold-mechatronik.de/Linearachse-Konfigurator-Easy-Mechatronics-System-1620B
+
+BallscrewSpindleNutBlock_SFU1605_DM_652mm:
+    Name: Ballscrew & Spindle Nut Block SFU1605-DM 652mm
+    Description: >
+        SET of ballscrew SFU1605-DM 652mm with spindle nut block for Easy-Mechatronics System.
+    Specs:
+        Length: 652 mm
+        Model: SFU1605-DM
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 95.00 EUR
+            Link: https://www.dold-mechatronik.de/SET-Kugelumlaufspindel-SFU1605-DM-642mm-mit-Spindelmutterblock-fuer-Easy-Mechatronics-System-1620A-L600
+
+MotorHolderFixedBearing_FLB20_3200:
+    Name: Fixed Bearing & Motor Holder FLB20-3200
+    Description: >
+        Fixed bearing unit FLB20-3200 including NEMA23 motor holder for Easy-Mechatronics System.
+    Specs:
+        Model: FLB20-3200
+        Compatible Motor: NEMA23
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 53.90 EUR
+            Link: https://www.dold-mechatronik.de/Festlagereinheit-FLB20-3200-inkl-Motorhalter-NEMA23-Easy-Mechatronics-System-1620B
+
+FloatingBearing_LLB20_6200:
+    Name: Floating Bearing LLB20-6200
+    Description: >
+        Floating bearing unit LLB20-6200 for Easy-Mechatronics System.
+    Specs:
+        Model: LLB20-6200
+    Suppliers:
+        Dold Mechatronik:
+            PartNo: N/A
+            Price: 14.90 EUR
+            Link: https://www.dold-mechatronik.de/Loslagereinheit-LLB20-6200-Easy-Mechatronics-System-1620B
