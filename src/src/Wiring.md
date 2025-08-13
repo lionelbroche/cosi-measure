@@ -7,7 +7,7 @@
 [Cable chain holder Y]: Parts.yaml#CableChainHolderY
 [Cable chain]: Parts.yaml#CableChain
 
-# Wiring
+# COSI-measure: Wiring
 
 {{BOM}}
 
@@ -29,16 +29,31 @@ Slide two additional [Slot nuts, M8]{Qty: 2} into the rail of the [Modular alumi
 
 Slide two more [Slot nuts, M8]{Qty: 2} into the rail of the bar that faces the inside of the frame. Then attach one [Cable chain]{Qty:2} to each of these nuts using a [M5x20 screws]{Qty:2}.
 
+[picture]
 
-Attach the [Cable chain holder Y]
+Attach the [Cable chain holder Y] to the Y-stepper motor holder using (TO BE DETERMINED).
+
+[picture]
+
+Now attach the lower cable chain to the [Y cable chain holder] using (SCREWS TO BE DETERMINED).
+
+[picture]
+
+Attach the [Cable chain holder Z1] to the Aluminium plate 5. Y-stepper motor holder using the .
+
+[picture]
+
+Secure the [Cable chain holder Z2Y] to the Aluminium plate 5, and the [Cable chain holder Z2Z] to the Aluminium plate 8 using {SCREWS TO BE DETERMINED). Then secure the third [Cable chain]{Qty:1} to these holders.
+
+[picture]
 
 
 ![](../images/limit_switch_and_cable_holder_y-axis.jpg)
 
 
-
-
 ## Stepper motors
+Run the cables....
+Connect the cables to ....
 
 ## Endstop system
 

@@ -1,9 +1,20 @@
+---
+Details:
+    Thumbnail: images/cabinet-inside.jpg
+    Time: 5 days
+    Difficulty: Medium
+    Skills:
+      - Soldering
+---
+
 [M4x10 screws]:Parts.yaml#M4x10PanSteel
 [No. 2 Phillips screwdriver]:Parts.yaml#Screwdriver_Philips_No2
-# Electronics
+# COSI-measure: Electronics
 
 {{BOM}}
-saaggsdgf
+
+Based on version 2 of the COSI-measure system.
+
 
 ## Put screws into the widget {pagestep}
 

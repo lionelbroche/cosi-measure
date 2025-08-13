@@ -1,22 +1,11 @@
 
----
-Details:
-    Thumbnail: images/IntroPic.jpg
-    Time: 40 Minutes
-    Difficulty: Easy
-    Skills:
-      - 3D printing
-      - Screwing things together
----
-<!-- There should be only one Header per page. You do not need to use all the keys -->
-
-
-
-# COSI Mechanical System
+[M4x10 screws]:Parts.yaml#M4x10PanSteel
+[No. 2 Phillips screwdriver]:Parts.yaml#Screwdriver_Philips_No2
+# Introduction
 
 This document describes the mechanical assembly of COSI Measure.
 
-The part list can be found in the bill of material (BoM) v1.1 file. 
+The partlist can be found in the bill of material (BoM) v1.1 file. 
 
 A more detailed description of COSI Measure can be found here: 
 http://www.opensourceimaging.org/project/cosi-measure/
@@ -27,11 +16,6 @@ Han H, Moritz R, Oberacker E, Waiczies H, Niendorf T and Winter L, „Open Sourc
 Multipurpose Measurement System with Submillimetre Fidelity and First Application in 
 Magnetic Resonance“, Scientific Reports, 7:13452, 201
 
+Before assembling the system, make sure you have completed the additional parts that need to be made manually (3D-printed elements, aluminium sheets, etc). These are listed in the section 'Parts to make'.
 
-This is a great place to start making your documentation!
-
-Begin building below:
-
-* [Start Building](my-new-page.md){step}
-
-And you should definitely let people know about the [bill of materials]{BOM} page.
+Once you have completed the BOM (including the parts made manually), you may run through the assembly of the mechanical frame. The assembly of the electronics elements comes next, then finally the system can be finalised, programmed and tested.
