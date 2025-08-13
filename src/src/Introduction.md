@@ -26,7 +26,6 @@ Han H, Moritz R, Oberacker E, Waiczies H, Niendorf T and Winter L, „Open Sourc
 Multipurpose Measurement System with Submillimetre Fidelity and First Application in 
 Magnetic Resonance“, Scientific Reports, 7:13452, 201
 
+Before assembling the system, make sure you have completed the additional parts that need to be made manually (3D-printed elements, aluminium sheets, etc). These are listed in the section 'Parts to make'.
 
-
-
-
+Once you have completed the BOM (including the parts made manually), you may run through the assembly of the mechanical frame. The assembly of the electronics elements comes next, then finally the system can be finalised, programmed and tested.

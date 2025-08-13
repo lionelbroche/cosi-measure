@@ -40,6 +40,18 @@ AluminumFrame_40x40x800:
             Price: 8.20 EUR
             Link: https://www.dold-mechatronik.de/Aluminiumprofil-40x40L-I-Typ-Nut-8-Standardlaengen-1025-EUR-m
 
+AluminumFrame_40x40x250:
+    Name: Aluminum Frame (40x40x250)mm
+    Description: >
+        40x40L I-Type Nut 8 aluminum profile, 800mm length.
+        Used to secure the X and Y cable chains to the static frame.
+    Specs:
+        Dimensions: 40x40x250 mm
+        Type: I-Type, Nut 8
+        Material: Aluminum
+    Suppliers:
+
+
 Angle_40x80:
     Name: Angle Bracket 40x80 I-Type Nut 8
     Description: >
@@ -270,6 +282,19 @@ DistancePlate1mm_TBR20UU:
             Price: 1.50 EUR
             Link: https://www.dold-mechatronik.de/Distanzblech-1mm-fuer-TBR20UU
 
+AluminumPlate:
+    Name: Aluminum Plate
+    Description: >
+        Aluminum plate needed to cut custom-made pieces.
+    Specs:
+        Material: AlCuMg1, EN AW-2017A.EN AW-AlCu4MgSi(A), T451 EN 485-1.2.3 
+        Dimensions: 
+            Thickness: 10 mm
+            Width: 500 mm
+            Length: 1100 mm
+    Suppliers:
+        
+
 AluminumPlate_1:
     Name: Aluminum Plate 1
     Description: >
@@ -440,3 +465,14 @@ FloatingBearing_LLB20_6200:
             PartNo: N/A
             Price: 14.90 EUR
             Link: https://www.dold-mechatronik.de/Loslagereinheit-LLB20-6200-Easy-Mechatronics-System-1620B
+
+CableChain:
+    Name: Igus E14.2.038.0
+    Description: >
+        Plastic cable chain.
+    Specs:
+        Model: E14.2.038.0
+    Suppliers:
+        Dold Mechatronik:
+            Link: https://www.conrad.de/de/energieketteschleppkette-easy-chain-kunststoff-e-kette-e14-e1420380-igus-inhalt-1-st-740324.html
+
