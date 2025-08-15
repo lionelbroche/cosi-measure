@@ -45,6 +45,11 @@ Make one plate for the X-axis (may be plastic)
 
 The endstop detectors rely on metallic plates to detect the end of their course. These also need to be made, but there are no drawings to date.
 
-Make one bent aluminium plate for the Y axis. Alternately, you can also print one [limit_switch_holder_z-axis_v2] and cover it with an aluminium foil.
+Make one bent aluminium plate for the Y axis. 
+
 The others rely on the aluminium parts already made above.
+
+## PCB boards
+
+One boards must be obtained before the electronics assembly can be done:
 

@@ -9,15 +9,15 @@ Position,Description,Designator,Qty,Manufacturer,Manufacturer PartNo,Distributor
 8,Cable Duct 60x25,-,1,arnocanali,V6K6025,reichelt,,https://www.reichelt.de/verdrahtungskanal-60x25-mm-1000-mm-v6k6025-p338230.html
 9,Cable Duct 60x40,-,1,arnocanali,V6K6040,reichelt,,https://www.reichelt.de/verdrahtungskanal-60x40-mm-1000-mm-v6k6040-p275692.html
 10,Mounting Plate for Rumba and Pi,-,,,,,,
-11,Cable Tube,-,1,Rittal,2595.000,Conrad,,https://www.conrad.de/de/p/rittal-sz-2595-000-kabelschlauch-polyethylen-o-x-l-16-mm-x-25-m-1-st-1048519.html
-12,Cable Tube Holder,-,1,Rittal,2593.000,Conrad,,https://www.conrad.de/de/p/rittal-sz-2593-000-kabelschlauchhalter-polyamid-20-st-1048517.html
+11,Cable Tube,-,1,Rittal,2595,Conrad,,https://www.conrad.de/de/p/rittal-sz-2595-000-kabelschlauch-polyethylen-o-x-l-16-mm-x-25-m-1-st-1048519.html
+12,Cable Tube Holder,-,1,Rittal,2593,Conrad,,https://www.conrad.de/de/p/rittal-sz-2593-000-kabelschlauchhalter-polyamid-20-st-1048517.html
 13,Stepper Motor Driver,,3,ACT,DM542,reichelt,,https://www.reichelt.de/schrittmotortreiber-fuer-nema-23-18-50-v-act-dm542-p237924.html
 14,Main Switch,S0,1,,,reichelt,,https://www.reichelt.de/hauptschalter-3-pol-25-a-eaton-041097-p158862.html
 15,Mains In,X0,1,Deltron,RID1042H,rs ,,https://de.rs-online.com/web/p/iec-filter/7615775
 16,Power Socket,X2,1,Schneider Electric,PKS52B,Conrad,,https://www.conrad.de/de/p/schneider-electric-pks52b-einbau-steckdose-ip54-ik08-blau-2359161.html
 17,USB Through-Connector,"X8, X9, X10",3,CLIFF,CP30210NMB,reichelt,,https://www.reichelt.de/sg/de/usb-adapter-ft-1-x-usb-3-0-a-buchse-1-x-usb-3-0-b-buchse-cliff-cp30210nmb-p227661.html
 18,HDMI Through-Connector,X11,1,Delock,86963,reichelt,,https://www.reichelt.de/sg/de/hdmi-a-einbaubuchse-mit-verschlusskappe-ip67-delock-86963-p322711.html
-19,RJ45 Through Connector,X12,1,TRU Components,4016139055312,Conrad,,https://www.conrad.de/de/p/tru-components-rj45-01-rj45-einbaubuchse-1408770-buchse-einbau-stecker-gerade-polzahl-8p8c-silber-1-st-1408770.html
+19,RJ45 Through Connector,X12,1,TRU Components,4.01614E+12,Conrad,,https://www.conrad.de/de/p/tru-components-rj45-01-rj45-einbaubuchse-1408770-buchse-einbau-stecker-gerade-polzahl-8p8c-silber-1-st-1408770.html
 20,3 pin ext. Emergency Stop Connector,X8,1,binder,99-0608-00-03,Conrad,,https://www.conrad.de/de/p/binder-99-0608-00-03-rundstecker-flanschstecker-gesamtpolzahl-3-serie-rundsteckverbinder-678-1-st-738745.html
 21,8 pin Hardware Limit Switches,X3,1,binder,99-0648-00-08,Conrad,see Issues!,https://www.conrad.de/de/p/binder-99-0648-00-08-rundstecker-flanschstecker-gesamtpolzahl-8-serie-rundsteckverbinder-678-1-st-738809.html
 22,8 pin connector Endstops,X4,1,binder,99-0648-00-08,Conrad,see Issues!,https://www.conrad.de/de/p/binder-99-0648-00-08-rundstecker-flanschstecker-gesamtpolzahl-8-serie-rundsteckverbinder-678-1-st-738809.html

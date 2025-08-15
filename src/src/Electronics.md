@@ -1,6 +1,6 @@
 ---
 Details:
-    Thumbnail: images/cabinet-inside.jpg
+    Thumbnail: images/3Dview.bmp
     Time: 5 days
     Difficulty: Medium
     Skills:
@@ -12,9 +12,6 @@ Details:
 # COSI-measure: Electronics
 
 {{BOM}}
-
-Based on version 2 of the COSI-measure system.
-
 
 ## Put screws into the widget {pagestep}
 
